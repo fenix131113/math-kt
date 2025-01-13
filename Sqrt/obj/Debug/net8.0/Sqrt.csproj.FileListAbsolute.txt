@@ -1,0 +1,14 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\bin\Debug\net8.0\Sqrt.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\bin\Debug\net8.0\Sqrt.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\bin\Debug\net8.0\Sqrt.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\bin\Debug\net8.0\Sqrt.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\bin\Debug\net8.0\Sqrt.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\refint\Sqrt.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\Sqrt.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Sqrt\obj\Debug\net8.0\ref\Sqrt.dll
