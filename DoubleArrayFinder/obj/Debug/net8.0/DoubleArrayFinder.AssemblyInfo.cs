@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sqrt")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DoubleArrayFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86adc63a3f9267316b0297995c468ea0f2e70e8b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sqrt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sqrt")]
+[assembly: System.Reflection.AssemblyProductAttribute("DoubleArrayFinder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DoubleArrayFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

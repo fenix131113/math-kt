@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\bin\Debug\net8.0\DoubleArrayFinder.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\bin\Debug\net8.0\DoubleArrayFinder.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\bin\Debug\net8.0\DoubleArrayFinder.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\bin\Debug\net8.0\DoubleArrayFinder.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\bin\Debug\net8.0\DoubleArrayFinder.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\refint\DoubleArrayFinder.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\DoubleArrayFinder.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\DoubleArrayFinder\obj\Debug\net8.0\ref\DoubleArrayFinder.dll
