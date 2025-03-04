@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\bin\Debug\net8.0\Graph_KT.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\bin\Debug\net8.0\Graph_KT.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\bin\Debug\net8.0\Graph_KT.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\bin\Debug\net8.0\Graph_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\bin\Debug\net8.0\Graph_KT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\refint\Graph_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\Graph_KT.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\Graph_KT\obj\Debug\net8.0\ref\Graph_KT.dll

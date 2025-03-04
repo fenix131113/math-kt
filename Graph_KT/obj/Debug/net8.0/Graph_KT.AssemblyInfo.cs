@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DoubleArrayFinder")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Graph_KT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344c14f3fa8b8974c277fef80e4a4ad08841afe6")]
-[assembly: System.Reflection.AssemblyProductAttribute("DoubleArrayFinder")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DoubleArrayFinder")]
+[assembly: System.Reflection.AssemblyProductAttribute("Graph_KT")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Graph_KT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
