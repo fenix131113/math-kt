@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\bin\Debug\net8.0\H_Index_KT.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\bin\Debug\net8.0\H_Index_KT.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\bin\Debug\net8.0\H_Index_KT.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\bin\Debug\net8.0\H_Index_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\bin\Debug\net8.0\H_Index_KT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\refint\H_Index_KT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\H_Index_KT.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\H_Index_KT\obj\Debug\net8.0\ref\H_Index_KT.dll
