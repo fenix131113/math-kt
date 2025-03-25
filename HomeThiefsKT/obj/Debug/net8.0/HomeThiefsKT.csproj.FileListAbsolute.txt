@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\bin\Debug\net8.0\HomeThiefsKT.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\bin\Debug\net8.0\HomeThiefsKT.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\bin\Debug\net8.0\HomeThiefsKT.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\bin\Debug\net8.0\HomeThiefsKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\bin\Debug\net8.0\HomeThiefsKT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\refint\HomeThiefsKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\HomeThiefsKT.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\HomeThiefsKT\obj\Debug\net8.0\ref\HomeThiefsKT.dll

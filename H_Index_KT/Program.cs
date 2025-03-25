@@ -23,8 +23,10 @@ class Program
     {
         var count = new int[array.Length];
 
-        foreach (var t in array)
-            count[t - 1]++;
+        for (var index = 0; index < array.Length; index++)
+        {
+            count[index]++;
+        }
 
         var writeIndex = array.Length - 1;
         
