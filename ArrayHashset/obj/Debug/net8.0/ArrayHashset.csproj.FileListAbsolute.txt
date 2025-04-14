@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\bin\Debug\net8.0\ArrayHashset.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\bin\Debug\net8.0\ArrayHashset.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\bin\Debug\net8.0\ArrayHashset.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\bin\Debug\net8.0\ArrayHashset.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\bin\Debug\net8.0\ArrayHashset.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\refint\ArrayHashset.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ArrayHashset.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\ArrayHashset\obj\Debug\net8.0\ref\ArrayHashset.dll

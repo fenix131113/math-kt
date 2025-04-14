@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HomeThiefsKT")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ArrayHashset")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc8c9f1b90ac0d3036ac95e5213ae46dae686de2")]
-[assembly: System.Reflection.AssemblyProductAttribute("HomeThiefsKT")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HomeThiefsKT")]
+[assembly: System.Reflection.AssemblyProductAttribute("ArrayHashset")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ArrayHashset")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -12,7 +12,7 @@ class Program
 
     private static void GetData()
     {
-        Console.WriteLine("Введите длинну улицы");
+        Console.WriteLine("Введите длину улицы");
         _houses = new int[int.Parse(Console.ReadLine()!)];
 
         for (var i = 0; i < _houses.Length; i++)
@@ -34,6 +34,7 @@ class Program
             prizes[i] = prizes[i - 1] > _houses[i] + prizes[i - 2]
                 ? prizes[i - 1]
                 : _houses[i] + prizes[i - 2];
+            
         }
 
         Console.WriteLine(string.Join(", ", prizes));
