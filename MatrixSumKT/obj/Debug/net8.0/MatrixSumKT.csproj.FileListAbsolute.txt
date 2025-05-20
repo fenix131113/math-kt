@@ -1,0 +1,15 @@
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\bin\Debug\net8.0\MatrixSumKT.exe
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\bin\Debug\net8.0\MatrixSumKT.deps.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\bin\Debug\net8.0\MatrixSumKT.runtimeconfig.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\bin\Debug\net8.0\MatrixSumKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\bin\Debug\net8.0\MatrixSumKT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.AssemblyInfoInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.AssemblyInfo.cs
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.csproj.CoreCompileInputs.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.sourcelink.json
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\refint\MatrixSumKT.dll
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.pdb
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\MatrixSumKT.genruntimeconfig.cache
+C:\Users\ixfen\OneDrive\Рабочий стол\math-kt\MatrixSumKT\obj\Debug\net8.0\ref\MatrixSumKT.dll
